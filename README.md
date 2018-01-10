@@ -1,2 +1,2 @@
 # MLCodes
-Contain various ML algorithms implemented in python, predictions on basic datasets good for beginners.Contributions of others are welcome. 
+Predictions on basic datasets implemented in python.Contributions of others are welcome.
